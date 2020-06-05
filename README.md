@@ -1,6 +1,5 @@
 # Last Stand
 
-# Gwee Yong Ta F01 (ID: 1004114)
 
 ''' TO LAUNCH THE GAME, run the LastStand.py file (in the same folder as the Assets folder) in a Kivy environment'''
 
